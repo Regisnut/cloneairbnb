@@ -23,16 +23,16 @@ This project was inspired by airbnb webapp **[www.airbnb.com](https://www.airbnb
 ## Screenshots
 
 <img
-		width="210"
+		width="200"
 		alt="Capture 1"
 		src="https://github.com/Regisnut/cloneairbnb/blob/master/assets/capture1.png">
 <img
-		width="210"
+		width="200"
 		alt="Capture 2"
 		src="https://github.com/Regisnut/cloneairbnb/blob/master/assets/capture2.png">
 
 <img
-		width="210"
+		width="200"
 		alt="Capture 3"
 		src="https://github.com/Regisnut/cloneairbnb/blob/master/assets/capture3.png">
 
