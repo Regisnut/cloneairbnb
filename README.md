@@ -22,6 +22,7 @@ This project was inspired by airbnb webapp **[www.airbnb.com](https://www.airbnb
 
 ## Screenshots
 
+<p align="center">
 <img
 		width="210"
 		alt="Capture 1"
@@ -34,6 +35,7 @@ This project was inspired by airbnb webapp **[www.airbnb.com](https://www.airbnb
 		width="210"
 		alt="Capture 3"
 		src="https://github.com/Regisnut/cloneairbnb/blob/master/assets/capture3.png">
+</p>
 
 ## Installation and usage
 
