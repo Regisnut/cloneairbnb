@@ -2,7 +2,7 @@
 <img
 		width="250"
 		alt="Airbnb Clone - React Native"
-		src="https://github.com/Regisnut/cloneairbnb/blob/master/preview/airbnb-logo.png">
+		src="https://github.com/Regisnut/cloneairbnb/blob/master/assets/airbnb-logo.png">
 </h1>
 
 ---
@@ -16,6 +16,7 @@
 **Perfect to start an Airbnb Clone App**
 
 Project using Expo tools **[www.expo.io](https://www.expo.io)**.
+
 No frameworks UI like Bootstrap or Material UI are used.
 
 This project was inspired by airbnb webapp **[www.airbnb.com](https://www.airbnb.com)**.
@@ -25,16 +26,16 @@ This project was inspired by airbnb webapp **[www.airbnb.com](https://www.airbnb
 <img
 		width="210"
 		alt="Capture 1"
-		src="https://github.com/Regisnut/cloneairbnb/blob/master/preview/capture1.png">
+		src="https://github.com/Regisnut/cloneairbnb/blob/master/assets/capture1.png">
 <img
 		width="210"
 		alt="Capture 2"
-		src="https://github.com/Regisnut/cloneairbnb/blob/master/preview/capture2.png">
+		src="https://github.com/Regisnut/cloneairbnb/blob/master/assets/capture2.png">
 
 <img
 		width="210"
 		alt="Capture 3"
-		src="https://github.com/Regisnut/cloneairbnb/blob/master/preview/capture3.png">
+		src="https://github.com/Regisnut/cloneairbnb/blob/master/assets/capture3.png">
 
 ## Installation and usage
 
@@ -56,7 +57,7 @@ This project works fine for iOS but in Android version there are serious UI prob
 Clone this repository :
 
 ```
-git clone https://github.com/regisnut/cloneairbnb.git
+git clone https://github.com/Regisnut/cloneairbnb.git
 cd cloneairbnb
 ```
 
@@ -76,7 +77,7 @@ run on android
 
 ## Star, Fork, Clone & Contribute
 
-Feel free to contribute on this repository. If my work helps you, please give me back with a star. This means a lot to me and keeps me going!
+Feel free to contribute on this repository. If my work helps you, please give me back with a star. This means a lots to me and keeps me going!
 
 ---
 
