@@ -1,15 +1,14 @@
+<h2 align="center">
+	AIRBNB Clone - React Native
+</h2>
+
 <h1 align="center">
 <img
 		width="250"
 		alt="Airbnb Clone - React Native"
 		src="https://github.com/Regisnut/cloneairbnb/blob/master/assets/airbnb-logo.png">
 </h1>
-
 ---
-
-<h1 align="center">
-	AIRBNB Clone - React Native
-</h1>
 
 ## Overview
 
